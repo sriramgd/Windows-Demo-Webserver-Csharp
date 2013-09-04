@@ -1,3 +1,5 @@
+A demo http server on Windows. See http://www.sgdevs.com/2013/09/back-to-basics-http-server-on-windows.html
+
 Pre-requisites: Visual Studio .NET on Windows.
 
 Keep directory 'testwebserver' anywhere. This is the http webserver implementation.
