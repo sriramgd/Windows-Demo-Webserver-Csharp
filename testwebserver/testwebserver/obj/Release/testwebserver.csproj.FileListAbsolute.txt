@@ -1,0 +1,5 @@
+c:\temp\testcordbg\testwebserver\testwebserver\bin\Release\testwebserver.exe
+c:\temp\testcordbg\testwebserver\testwebserver\bin\Release\testwebserver.pdb
+c:\temp\testcordbg\testwebserver\testwebserver\obj\Release\ResolveAssemblyReference.cache
+c:\temp\testcordbg\testwebserver\testwebserver\obj\Release\testwebserver.exe
+c:\temp\testcordbg\testwebserver\testwebserver\obj\Release\testwebserver.pdb

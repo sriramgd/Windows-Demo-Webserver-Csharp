@@ -1,0 +1,1 @@
+/RedirectTest/.* /Redirecttest/new.html

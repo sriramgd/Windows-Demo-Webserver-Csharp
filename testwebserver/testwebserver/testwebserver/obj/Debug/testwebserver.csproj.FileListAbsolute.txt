@@ -1,0 +1,12 @@
+C:\Users\shee\AppData\Local\Temporary Projects\testwebserver\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shee\AppData\Local\Temporary Projects\testwebserver\bin\Debug\testwebserver.exe
+C:\Users\shee\AppData\Local\Temporary Projects\testwebserver\bin\Debug\testwebserver.pdb
+C:\Users\shee\AppData\Local\Temporary Projects\testwebserver\obj\Debug\testwebserver.exe
+C:\Users\shee\AppData\Local\Temporary Projects\testwebserver\obj\Debug\testwebserver.pdb
+c:\temp\testcordbg\testwebserver\testwebserver\obj\Debug\testwebserver.exe
+c:\temp\testcordbg\testwebserver\testwebserver\obj\Debug\testwebserver.pdb
+c:\temp\testcordbg\testwebserver\testwebserver\bin\Debug\testwebserver.exe
+c:\temp\testcordbg\testwebserver\testwebserver\bin\Debug\testwebserver.pdb
+c:\temp\testcordbg\testwebserver\testwebserver\obj\Debug\ResolveAssemblyReference.cache
+C:\trys\testwebserver\testwebserver\testwebserver\obj\Debug\testwebserver.exe
+C:\trys\testwebserver\testwebserver\testwebserver\obj\Debug\testwebserver.pdb
